@@ -1,0 +1,2 @@
+ conda activate vehicle
+ mongodb+srv://sanjureddy7747:<db_password>@cluster0.5tzkvyp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
